@@ -1,69 +1,60 @@
-<h1 align="center">🤖 História do Mascote do Android</h1>
+🤖 História do Mascote do Android
+Este é um projeto desenvolvido com HTML5 e CSS3 que apresenta, de forma visualmente atrativa, a origem do simpático mascote do sistema operacional Android. A proposta é contar a história de forma interativa e estilizada, ao mesmo tempo que se pratica a construção de layouts modernos com HTML e CSS puros.
 
-<p align="center">
-  Projeto desenvolvido com HTML5 e CSS3 para apresentar, de forma estilizada, a origem do famoso mascote do Android.
-</p>
+🧠 Objetivo
+O objetivo principal do projeto é educar e entreter, demonstrando curiosidades sobre o mundo da tecnologia, enquanto exercita habilidades de marcação e estilização de conteúdo web.
 
-<p align="center">
-  <img src="imagens/bugdroid.png" alt="Bugdroid" width="150"/>
-</p>
+📚 Conteúdo Abordado
+A primeira versão do mascote: os "Dandroids"
 
----
+A criação oficial do Bugdroid por Irina Blok
 
-## 🧠 Objetivo
+Inspiração para o design simples e icônico
 
-Este projeto tem como foco demonstrar a origem do mascote do sistema Android, chamado **Bugdroid**, além de explorar a história das versões do Android nomeadas com doces, tudo isso em uma estrutura moderna e didática utilizando apenas **HTML** e **CSS**.
+Curiosidades sobre as versões do Android nomeadas com doces 🍩🍭
 
----
+Vídeo incorporado do YouTube com mais informações
 
-## 🚀 Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
+HTML5
 
-- 🔹 HTML5  
-- 🔹 CSS3  
-- 🔹 Google Fonts (Bebas Neue)  
-- 🔹 Fonte personalizada `idroid.otf`  
-- 🔹 Imagens, vídeos incorporados e layout responsivo
+CSS3
 
----
+Fonte personalizada idroid.otf
 
-## 🗂️ Estrutura de Pastas
+Google Fonts (Bebas Neue)
 
-📁 projeto-android ├── 📁 imagens │ ├── bugdroid.png │ ├── dan-droids.png │ ├── irina-blok.jpg │ └── favicon.ico ├── 📁 fontes │ └── idroid.otf ├── 📁 estilo │ └── style.css └── index.html
+Responsividade com media queries
 
----
+Elementos multimídia (imagens e vídeo)
 
-## 📸 Preview do Projeto
+📁 Estrutura de Arquivos
+bash
+Copiar
+Editar
+/imagens
+  ├── bugdroid.png
+  ├── dan-droids.png
+  ├── favicon.ico
+  ├── irina-blok.jpg
+/fontes
+  └── idroid.otf
+/css
+  └── style.css
+index.html
+🖼️ Captura de Tela
+(Adicione uma imagem ou gif do site funcionando aqui se desejar)
 
-> Para visualizar o projeto, basta abrir o arquivo `index.html` em seu navegador.
+🧪 O que você pode aprender com este projeto?
+Criar um layout semântico com HTML5
 
-<p align="center">
-  <img src="imagens/preview-projeto.png" alt="Preview do site" width="600">
-</p>
+Trabalhar com fontes externas e fontes personalizadas
 
----
+Aplicar variáveis CSS para facilitar o design
 
-## 📖 O que você vai aprender
+Estilizar componentes como menus, artigos e rodapés
 
-- ✅ Semântica em HTML
-- ✅ Estilização com variáveis CSS
-- ✅ Importação e uso de fontes personalizadas
-- ✅ Layouts responsivos
-- ✅ Integração com vídeos e links externos
+Incorporar vídeos de forma responsiva
 
----
-
-## 🎥 Conteúdo Extra
-
-> O projeto também incorpora um vídeo explicativo do mascote no YouTube, direto na página.
-
-📺 [Ver vídeo no YouTube](https://www.youtube.com/embed/l2UDgpLz20M)
-
----
-
-## 👨‍💻 Autor
-
-Feito com 💚 por **Paulo Senra**  
-📘 Desenvolvido para fins educacionais no [Curso em Vídeo](https://www.cursoemvideo.com/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+👨‍💻 Autor
+Desenvolvido por Paulo Senra para fins educacionais no Curso em Vídeo 🚀
